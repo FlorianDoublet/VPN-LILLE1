@@ -1,5 +1,6 @@
 # VPN-LILLE1
-VPN WINDOWS POUR LILLE1\n
+VPN WINDOWS POUR LILLE1
+
 -Installer le .exe (si machine en x64)
 -Aller dans C:\ProgramFile\OpenVpn\config
 -Coller le .ovpn et le .pem
